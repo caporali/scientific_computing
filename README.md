@@ -15,4 +15,4 @@ It consists of a comparison between the method in analysis and other known algor
 All files are accompanied by brief comments (written mostly in Italian). <br>
   
 # License
-The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0](https://github.com/caporali/computational_laboratory/blob/main/LICENSE).
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0](https://github.com/caporali/scientific_computing/blob/main/LICENSE).
