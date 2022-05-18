@@ -12,7 +12,7 @@ applicato al problema del GeneRank</em> (original) </li>
 The source code for the simulations can be found in the [code](https://github.com/caporali/scientific_computing/tree/main/code) folder. It is completely written in Matlab. <br>
 It consists of a comparison between the method in analysis and other known algorithms in the literature (jacobi, gauss-seidel...). The main code to be executed is [main.m](https://github.com/caporali/scientific_computing/blob/main/code/main/main.m).
 
-All files are accompanied by brief comments (written mostly in Italian). <br>
+All files are accompanied by brief comments (written mostly in italian). <br>
   
 # License
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0](https://github.com/caporali/scientific_computing/blob/main/LICENSE).
